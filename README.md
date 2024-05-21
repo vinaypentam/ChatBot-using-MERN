@@ -15,7 +15,7 @@ This is a full stack chatbot application built using MERN (React, MongoDB, Expre
 
 
 
-[2024-05-18 17-53-01](https://github.com/vinaypentam/ChatBot-using-MERN-/assets/90328074/6e509403-026c-4e4d-a1b6-b32bd775bac5)
+![2024-05-18 17-53-01](https://github.com/vinaypentam/ChatBot-using-MERN-/assets/90328074/670d713b-f570-489a-9085-e276b71a7266)
 
 
 
