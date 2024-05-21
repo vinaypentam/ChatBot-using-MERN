@@ -1,0 +1,1 @@
+{"version":3,"file":"chatgpt-config.js","sourceRoot":"","sources":["../../src/config/chatgpt-config.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,QAAQ,CAAC;AAEvC,SAAS,qBAAqB;IAC1B,MAAM,MAAM,GAAG,IAAI,aAAa,CAC5B;QACI,MAAM,EAAE,OAAO,CAAC,GAAG,CAAC,cAAc;QAClC,YAAY,EAAE,OAAO,CAAC,GAAG,CAAC,eAAe;KAC5C,CACJ,CAAA;IACD,OAAO,MAAM,CAAC;AAClB,CAAC;AAED,eAAe,qBAAqB,CAAC"}
